@@ -1,14 +1,52 @@
 # History: timeline before the creation of this repo
-+ November (Week 5 of FAC9?) - Birth of the idea: lunch with Ines to ask about the DWYL-FAC financial (and cultural) relationship. Found out that DWYL was leaving.
-+ November/December 2016 (Week 7 of FAC9?) - discussed the idea with @bradreeder & @sohilpandya. Sohil told me about the last time a FAC agency was attempted
-+ Early January - my questions about FAC's funding model - https://github.com/foundersandcoders/london-programme/issues/143 & https://github.com/foundersandcoders/london-programme/issues/140
-+ Dates? (between weeks 12-16 of FAC9) - reached out to others who might share the same vision, whilst keeping our numbers realistic: @sohilpandya @nogainbar @des-des (more experienced than current students)
-+ January 21st - Founders and Coders AGM - met Rebecca, had first introduction to consensus based decision making. This was when the idea became a "coop" agency.
-+ January 25th - met Ian Bellchambers at an [International Tech for Good meetup](https://www.meetup.com/techforgood/events/236415497/) (@jsms90). Invitation to come in to Outlandish & discuss ideas
-+ Date? - Met with Dan & Ines to ask for their input / advice on us forming an agency & whether I could shadow Ines at DWYL (@bradreeder & @jsms90)
-+ Most Sundays during February - brainstorming and some light research (@bradreeder & @jsms90)
-+ 14th February - met with Outlandish at their offices (@bradreeder & @jsms90)
-+ 16th February - invited by Outlandish to Open Tech's [post-conference networking drinks](https://2017.open.coop/sessions/networking-drinks/) (@bradreeder & @jsms90)
-+ End of March - reached out to others who might share the same vision: @emilyb7 & Marko (recent graduates)
-+ 22nd March - Agency formation meeting (@sohilpandya @bradreeder @jsms90 @nogainbar @des-des @emilyb7 @sofer Marko)
-+ 23rd March - [Freeing the freelancer: cooperative solutions](https://www.eventbrite.com/e/freeing-the-freelancer-cooperative-solutions-tickets-32497707518#) by Altgen, at NewSpeak House (@nogainbar & @jsms90)
+
++ **November - Week 5(?) of FAC9**  
+Birth of the idea:  
+Lunch with Ines to ask about the financial, and cultural, relationship between DWYL and Founders and Coders. Found out that DWYL was leaving. (Jen)
+
++ **November/December 2016 - Week 7 (?) of FAC9**  
+Discussed the idea with Bradley & Sohil. (Jen)  
+Made aware of the last time a FAC agency was attempted. (Sohil)
+
++ **Early January**  
+Questions about FAC's funding model. (Jen)  
+NB: These can be seen [here](https://github.com/foundersandcoders/london-programme/issues/143) & [here](https://github.com/foundersandcoders/london-programme/issues/140) by members of Founders and Coders
+Reaction: begin [drafting a proposal](https://github.com/InFact-coop/InFact/issues/17#issuecomment-294292067) for the formation of an agency (Jen)
+
++ **Dates? (between weeks 12-16 of FAC9)**  
+Reached out to more experienced alumni (Sohil, Noga & Eoin) who might share the same vision, whilst keeping our numbers realistic.
+
++ **January 21st**  
+Founders and Coders AGM - met Rebecca Radding and Founders and Coders was introduced consensus based decision making.  
+This was when the idea became a "coop" agency.
+
++ **January 25th**  
+Met Ian Bellchambers at an [International Tech for Good meetup](https://www.meetup.com/techforgood/events/236415497/) (Jen).  
+Invitation to come in to Outlandish & discuss ideas
+
++ **Date?**  
+Met with Dan & Ines to ask for their input / advice on us forming an agency & whether Jen could shadow Ines at DWYL (Jen & Bradley)
+
++ **Most Sundays during February**  
+Brainstorming and some light research (Jen & Bradley)
+
++ **14th February**  
+Met with Outlandish at their offices (Jen & Bradley)  
+Wrote the [first draft of mission & principles](https://github.com/InFact-coop/InFact/issues/17#issue-221945104) (Jen and Bradley)
+
++ **16th February**  
+Invited by Outlandish to Open Tech's [post-conference networking drinks](https://2017.open.coop/sessions/networking-drinks/) (Jen & Bradley)
+
++ **End of March**
+Reached out to other recent graduates who might share the same vision: Emily & Marko  
+(Marko had already accepted a job offer, but registered his future interest)
+
++ **22nd March**  
+Agency formation meeting (Sohil, Bradley, Jen, Noga, Eoin, Emily, Dan & Marko)
+
++ **23rd March**  
+[Freeing the freelancer: cooperative solutions](https://www.eventbrite.com/e/freeing-the-freelancer-cooperative-solutions-tickets-32497707518#) by Altgen, at NewSpeak House (Noga & Jen)
+
++ **11th April**  
+Second Meeting (Sohil, Bradley, Jen, Noga, Eoin, Emily & Dan)  
+Largely updates on the progress of our first 2 projects from Noga & Bradley
